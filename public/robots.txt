@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://handypro.mu/sitemap.xml
+
+# Crawl delay for all bots
+Crawl-delay: 1
+
+# Block specific bots (if needed)
+# User-agent: BadBot
+# Disallow: /
+
+# Block specific directories
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+# Allow specific file types
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$

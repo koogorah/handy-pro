@@ -1,0 +1,14 @@
+name = "handy-pro"
+main = ".next"
+compatibility_date = "2024-01-01"
+
+[build]
+command = "npm run build"
+
+[env.production]
+name = "handy-pro"
+
+# For Next.js static export
+[env.production.build]
+command = "npm run build"
+upload_dir = "out"
