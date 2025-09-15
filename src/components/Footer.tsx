@@ -150,10 +150,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <FiMail className="w-4 h-4 text-accent-100" />
                 <a
-                  href="mailto:info@handypro.mu"
+                  href="mailto:handypro.mauritius@gmail.com"
                   className="text-gray-300 hover:text-accent-100 transition-colors duration-200"
                 >
-                  info@handypro.mu
+                  handypro.mauritius@gmail.com
                 </a>
               </div>
               
@@ -174,7 +174,7 @@ const Footer = () => {
               © {currentYear} Handy Pro. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm mt-4 md:mt-0">
-              Business Registration: 125002639 | Contractor: Ikhlaas
+              Business Registration: I25002639 | Contractor: Ikhlaas
             </p>
           </div>
         </div>

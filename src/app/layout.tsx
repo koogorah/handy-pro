@@ -97,7 +97,7 @@ const structuredData = {
   description: "Professional multi-trade handyman services in Mauritius",
   url: "https://handypro.mu",
   telephone: "+23057971431",
-  email: "info@handypro.mu",
+  email: "handypro.mauritius@gmail.com",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Kalimaye Road, Petite Cabane",

@@ -27,7 +27,7 @@ A modern, responsive single-page website for Handy Pro, a professional handyman 
 
 - **Business Name**: Handy Pro
 - **Contractor**: Ikhlaas
-- **Business Registration**: 125002639
+- **Business Registration**: I25002639
 - **Location**: Kalimaye Road, Petite Cabane, Camp De Masque Pave, 1404-03, Mauritius
 - **Contact**: +230 5797 1431 (WhatsApp & Phone)
 - **Services**: Plumbing, Electrical, Painting, Masonry, Sewage Systems, General Maintenance
@@ -197,7 +197,7 @@ The website is fully responsive with:
 
 For questions or support:
 - **WhatsApp**: +230 5797 1431
-- **Email**: info@handypro.mu
+- **Email**: handypro.mauritius@gmail.com
 - **Business Hours**: Mon-Sat 8:00-18:00, Sun Emergency Only
 
 ## 📄 License

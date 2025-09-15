@@ -28,8 +28,8 @@ const Contact = () => {
     {
       icon: <FiMail className="w-6 h-6 text-white" />,
       title: "Email",
-      value: "info@handypro.mu",
-      href: "mailto:info@handypro.mu",
+      value: "handypro.mauritius@gmail.com",
+      href: "mailto:handypro.mauritius@gmail.com",
       description: "Send us an email",
     },
     {
@@ -160,7 +160,7 @@ const Contact = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-text-100 mb-2">Registered Business</h4>
-                <p className="text-text-200">Business Registration Number: 125002639</p>
+                <p className="text-text-200">Business Registration Number: I25002639</p>
               </div>
               
               <div>

@@ -1,3 +1,9 @@
-name = "handy-pro"
-pages_build_output_dir = "out"
+name = "handypro"
+main = "src/index.js"
 compatibility_date = "2024-01-01"
+
+[build]
+command = "npm run build"
+
+[env.production]
+name = "handypro"

@@ -74,7 +74,7 @@ const About = () => {
               </h3>
               <div className="space-y-2 text-text-200">
                 <p><strong>Contractor:</strong> Ikhlaas</p>
-                <p><strong>Business Registration:</strong> 125002639</p>
+                <p><strong>Business Registration:</strong> I25002639</p>
                 <p><strong>Location:</strong> Kalimaye Road, Petite Cabane, Camp De Masque Pave, 1404-03, Mauritius</p>
               </div>
             </div>
